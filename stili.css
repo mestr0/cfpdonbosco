@@ -39,22 +39,38 @@ color: #002fff
 
 #fascia-carousel{
     height: 367px;
-    padding-top: 60px;
+
 
 }
 
 .elemento-carousel{
     height: 367px;
+    padding-top: 25px;
 
 }
 
 #fascia-card{
     min-height: 367px;
     color: black;
-    padding-top: 60px;
+    padding-top: 5px;
 }
 
 
 #fascia-testo{
 min-height: 367px;
+text-align: center;
+}
+
+
+
+#fascia-quattro-card{
+    min-height: 367px;
+    color: black;
+    padding-top: 60px;
+}
+
+
+
+#mappa{
+    padding-top: 160px;
 }
